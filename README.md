@@ -1,5 +1,6 @@
 # MICROES_AR-CONDICIONADO
-Projeto que está sendo desenvolvido nas disciplinas de Engenharia de Software e Microcontroladores.
+
+Projeto que foi desenvolvido nas disciplinas de Engenharia de Software e Microcontroladores. Abaixo segue a  documentação envolvendo ES.
 
 	Com o crescimento e avanço da tecnologia da informação, as empresas passaram a perceber a importância de investir em tecnologia a fim de alavancar seus lucros e melhorar seus produtos. No requisito melhorias de produtos, surge como pré-requisitos: comodidade, flexibilidade e principalmente resolver problemas de formas rápidas. O projeto controle de Ar Condicionado pelo smartphone avista essas exigências.
 
